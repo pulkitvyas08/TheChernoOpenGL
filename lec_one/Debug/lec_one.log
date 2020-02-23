@@ -1,4 +1,2 @@
 ﻿  Application.cpp
-  Shader.cpp
-C:\Users\Asus\Documents\Visual Studio Projects\cherno_opengl_series\lecture_one\lec_one\src\Shader.cpp(112,2): error C2198: 'PFNGLUNIFORM4FPROC': too few arguments for call
-  Generating Code...
+  lec_one.vcxproj -> C:\Users\Asus\Documents\Visual Studio Projects\cherno_opengl_series\lecture_one\lec_one\Debug\lec_one.exe
