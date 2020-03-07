@@ -11,7 +11,6 @@ struct ShaderProgramSource
 	std::string FragmentSource;
 };
 
-
 class Shader
 {
 private:
